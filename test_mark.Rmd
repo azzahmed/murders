@@ -1,0 +1,11 @@
+---
+title: "rewmark"
+author: "A. Z. Ziauddin Ahmed"
+date: "6/5/2021"
+output: html_document
+---
+```{r, echo=F}
+n <- nrow(mtcars)
+```
+Here `r n` cars are compared
+    
